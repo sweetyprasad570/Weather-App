@@ -12,7 +12,7 @@ A responsive and interactive weather forecasting web application using **HTML**,
 
 ## 🌐 Live Demo
 
-👉 [**[Click here to view the live app](https://sweetyprasad570.github.io/Weather-App/)
+👉 [**[Click here to view the live app](https://sweetyprasad570.github.io/Weather-App/)**]
 
 ## 🛠 Tech Stack
 
